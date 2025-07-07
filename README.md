@@ -6,3 +6,4 @@
 - [Project Euler #5: Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) – `Mathematics/Project Euler/project-euler-5-smallest-multiple/project-euler-5-smallest-multiple.c`
 - [Project Euler #6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) – `Mathematics/Project Euler/project-euler-6-sum-square-difference/project-euler-6-sum-square-difference.c`
 - [Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) – `Mathematics/Project Euler/project-euler-7-10001st-prime/project-euler-7-10001st-prime.c`
+- [Project Euler #8: Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) – `Mathematics/Project Euler/project-euler-8-largest-product-in-a-series/project-euler-8-largest-product-in-a-series.c`
