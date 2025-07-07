@@ -5,3 +5,4 @@
 - [Project Euler #4: Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) – `Mathematics/Project Euler/project-euler-4-largest-palindrome-product/project-euler-4-largest-palindrome-product.c`
 - [Project Euler #5: Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) – `Mathematics/Project Euler/project-euler-5-smallest-multiple/project-euler-5-smallest-multiple.c`
 - [Project Euler #6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) – `Mathematics/Project Euler/project-euler-6-sum-square-difference/project-euler-6-sum-square-difference.c`
+- [Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) – `Mathematics/Project Euler/project-euler-7-10001st-prime/project-euler-7-10001st-prime.c`
