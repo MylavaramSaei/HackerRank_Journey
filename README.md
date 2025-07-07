@@ -8,3 +8,4 @@
 - [Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) – `Mathematics/Project Euler/project-euler-7-10001st-prime/project-euler-7-10001st-prime.c`
 - [Project Euler #8: Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) – `Mathematics/Project Euler/project-euler-8-largest-product-in-a-series/project-euler-8-largest-product-in-a-series.c`
 - [Project Euler #9: Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) – `Mathematics/Project Euler/project-euler-9-special-pythagorean-triplet/project-euler-9-special-pythagorean-triplet.c`
+- [Project Euler #10: Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) – `Mathematics/Project Euler/project-euler-10-summation-of-primes/project-euler-10-summation-of-primes.c`
