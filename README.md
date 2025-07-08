@@ -17,3 +17,4 @@
 - [Project Euler #16: Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016) – `Mathematics/Big Integers / Digit Manipulation/project-euler-16-power-digit-sum/project-euler-16-power-digit-sum.c`
 - [Project Euler #17: Number to Words](https://www.hackerrank.com/contests/projecteuler/challenges/euler017) – `Mathematics/Number Theory / String Formatting/project-euler-17-number-to-words/project-euler-17-number-to-words.c`
 - [Project Euler #18: Maximum Path Sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018) – `Mathematics / Dynamic Programming/Path Sum Problems/project-euler-18-maximum-path-sum-i/project-euler-18-maximum-path-sum-i.c`
+- [Project Euler #19: Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) – `Mathematics / Date Handling/Calendar-based Problems/project-euler-19-counting-sundays/project-euler-19-counting-sundays.c`
