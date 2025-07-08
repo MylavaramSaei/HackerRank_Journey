@@ -16,3 +16,4 @@
 - [Project Euler #15: Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015) – `Mathematics/Combinatorics/project-euler-15-lattice-paths/project-euler-15-lattice-paths.c`
 - [Project Euler #16: Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016) – `Mathematics/Big Integers / Digit Manipulation/project-euler-16-power-digit-sum/project-euler-16-power-digit-sum.c`
 - [Project Euler #17: Number to Words](https://www.hackerrank.com/contests/projecteuler/challenges/euler017) – `Mathematics/Number Theory / String Formatting/project-euler-17-number-to-words/project-euler-17-number-to-words.c`
+- [Project Euler #18: Maximum Path Sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018) – `Mathematics / Dynamic Programming/Path Sum Problems/project-euler-18-maximum-path-sum-i/project-euler-18-maximum-path-sum-i.c`
