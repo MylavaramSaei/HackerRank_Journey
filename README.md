@@ -13,3 +13,4 @@
 - [Project Euler #12: Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012) – `Mathematics/Project Euler/project-euler-12-highly-divisible-triangular-number/project-euler-12-highly-divisible-triangular-number.c++`
 - [Project Euler #13: Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013) – `Mathematics/Project Euler/project-euler-13-large-sum/project-euler-13-large-sum.c++`
 - [Project Euler #14: Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014) – `Mathematics/Project Euler/project-euler-14-longest-collatz-sequence/project-euler-14-longest-collatz-sequence.c++`
+- [Project Euler #15: Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015) – `Mathematics/Combinatorics/project-euler-15-lattice-paths/project-euler-15-lattice-paths.c`
