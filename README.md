@@ -19,3 +19,4 @@
 - [Project Euler #18: Maximum Path Sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018) – `Mathematics / Dynamic Programming/Path Sum Problems/project-euler-18-maximum-path-sum-i/project-euler-18-maximum-path-sum-i.c`
 - [Project Euler #19: Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) – `Mathematics / Date Handling/Calendar-based Problems/project-euler-19-counting-sundays/project-euler-19-counting-sundays.c`
 - [Project Euler #20: Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020) – `Mathematics/Number Theory/project-euler-20-factorial-digit-sum/project-euler-20-factorial-digit-sum.c`
+- [Project Euler #21: Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021) – `Mathematics/Number Theory/project-euler-21-amicable-numbers/project-euler-21-amicable-numbers.c`
