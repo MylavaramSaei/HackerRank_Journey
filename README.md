@@ -23,3 +23,4 @@
 - [Project Euler #22: Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022) – `Mathematics/Implementation / String Handling/project-euler-22-names-scores/project-euler-22-names-scores.c`
 - [Project Euler #23: Non-abundant sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler023) – `Mathematics/Number Theory / Optimization/project-euler-23-non-abundant-sums/project-euler-23-non-abundant-sums.c`
 - [Project Euler #24: Lexicographic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler024) – `Mathematics/Combinatorics / Permutations/project-euler-24-lexicographic-permutations/project-euler-24-lexicographic-permutations.c`
+- [Project Euler #25: 1000-digit Fibonacci number](https://www.hackerrank.com/contests/projecteuler/challenges/euler025) – `Mathematics/Big Integers / Fibonacci Sequence/project-euler-25-1000-digit-fibonacci-number/project-euler-25-1000-digit-fibonacci-number.c`
