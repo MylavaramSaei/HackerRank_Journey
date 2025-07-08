@@ -10,3 +10,4 @@
 - [Project Euler #9: Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) – `Mathematics/Project Euler/project-euler-9-special-pythagorean-triplet/project-euler-9-special-pythagorean-triplet.c`
 - [Project Euler #10: Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) – `Mathematics/Project Euler/project-euler-10-summation-of-primes/project-euler-10-summation-of-primes.c`
 - [Project Euler #11: Largest product in a grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011) – `Mathematics/Project Euler/project-euler-11-largest-product-in-a-grid/project-euler-11-largest-product-in-a-grid.C++`
+- [Project Euler #12: Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012) – `Mathematics/Project Euler/project-euler-12-highly-divisible-triangular-number/project-euler-12-highly-divisible-triangular-number.c++`
