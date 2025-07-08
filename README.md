@@ -21,3 +21,4 @@
 - [Project Euler #20: Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020) – `Mathematics/Number Theory/project-euler-20-factorial-digit-sum/project-euler-20-factorial-digit-sum.c`
 - [Project Euler #21: Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021) – `Mathematics/Number Theory/project-euler-21-amicable-numbers/project-euler-21-amicable-numbers.c`
 - [Project Euler #22: Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022) – `Mathematics/Implementation / String Handling/project-euler-22-names-scores/project-euler-22-names-scores.c`
+- [Project Euler #23: Non-abundant sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler023) – `Mathematics/Number Theory / Optimization/project-euler-23-non-abundant-sums/project-euler-23-non-abundant-sums.c`
